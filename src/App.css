@@ -3,14 +3,13 @@
 }
 header {
   text-align: center;
-  font-family: "American Typewriter";
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 1.5rem;
   margin-bottom: 2%;
 }
 #preview {
-  font-family: "American Typewriter";
-  font-weight: 500;
+  font-family: "Raleway", sans-serif;
 }
 
 #editor {
