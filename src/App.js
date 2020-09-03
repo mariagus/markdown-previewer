@@ -21,5 +21,5 @@ function App() {
   );
 }
 const example =
-  "# Header 1 \n## Header 2 \n### Header 3 \n------------------------------------------------------------------------------------------\nHere is some *italic* and some __bold__ text!\n<li>list item 1</li><li>list item 2</li>";
+  "# Header 1 \n## Header 2 \n### Header 3 \n---\nHere is some *italic* and some __bold__ text!\n<li>list item 1</li><li>list item 2</li>";
 export default App;
